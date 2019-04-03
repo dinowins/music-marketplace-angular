@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Must have a Google account.
 
-Before serving the project, go to https://firebase.google.com/. You will the option to "Add project". Select it.
+Before serving the project, go to https://firebase.google.com/. You will see the option to "Add project". Select it.
 
 Click on the "Add FireBase to your web app" option (icon is </>).
 
@@ -24,7 +24,7 @@ export const masterFirebaseConfig = {
 
 ```
 
-Add /src/app/api-keys.ts to .gitignore file for FireBase information security. 
+/src/app/api-keys.ts is already added .gitignore file for FireBase information security.
 
 
 ## Development server
